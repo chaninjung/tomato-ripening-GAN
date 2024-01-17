@@ -14,6 +14,7 @@ The following is my database that implemented ARGUMENT. (TOTAL 7,831)
 https://universe.roboflow.com/posco-wyx1a/copy_project_agumentation_7831
 
 <br>
+<br>
 
 ### GAN for YOLOv5
 GAN is used to augment small data sets, such as in this case.
