@@ -13,9 +13,13 @@ https://universe.roboflow.com/tharindu-3vjtz/ripe-check-tomato
 The following is my database that implemented ARGUMENT. (TOTAL 7,831)
 https://universe.roboflow.com/posco-wyx1a/copy_project_agumentation_7831
 
+</p>
+
 ### GAN for YOLOv5
 GAN is used to augment small data sets, such as in this case.
 2,000 of the TURNING images enhanced using GAN were randomly selected, and 9,831 images were later learned in the YOLOv5 model.
+
+</p>
 
 ### GAN Parameters
 GAN is a model in which two neural networks, the generator and the discriminator, cooperate to generate and distinguish data through adversarial learning. I first learned by generating noise, allowing the generator to create a fake image, and then by allowing the discriminator to distinguish it.
