@@ -23,9 +23,7 @@ GAN is used to augment small data sets, such as in this case.
 <br>
 
 ### GAN Parameters
-
-
-
+![parameter](https://github.com/chaninjung/tomato-ripening-GAN/assets/156671303/f9c40550-8794-4d7d-8c77-5bb124cedd7c) </p>
 GAN is a model in which two neural networks, the generator and the discriminator, cooperate to generate and distinguish data through adversarial learning. I first learned by generating noise, allowing the generator to create a fake image, and then by allowing the discriminator to distinguish it.
 The main parameters are as follows. Epoch is 34,100, and for batch size and optimizer, the values with the lowest FID were selected experimentally. </p>
 ![lossfunction](https://github.com/chaninjung/tomato-ripening-GAN/assets/156671303/a5d011f0-86ba-4a43-b779-d79dcfaf358f) </p>
